@@ -1,0 +1,9 @@
+allowBuilds:
+  unrs-resolver: true
+minimumReleaseAgeExclude:
+  - '@base-ui/react@1.7.0'
+  - '@base-ui/utils@0.3.2'
+  - '@clerk/backend@3.15.1'
+  - '@clerk/nextjs@7.6.5'
+  - '@clerk/react@6.12.11'
+  - '@clerk/shared@4.26.0'
